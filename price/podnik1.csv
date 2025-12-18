@@ -1,0 +1,694 @@
+﻿#INFO,Version=1.0.0,Template= eBay-active-revise-price-quantity-download_US,,,,,,,,,
+Action,Category name,Item number,Title,Listing site,Currency,Start price,Buy It Now price,Available quantity,Relationship,Relationship details,Custom label (SKU)
+Revise,"Internal Hard Disk Drives (56083)","394223993781","512GB SSD SATA 2.5"" Internal Hard Drive For PC Laptop Win 10 Pro 64Bit Legacy","US","USD",,,,,Lot=Lot of 1|Storage Capacity=120/128SSD;240/256SSD;480/512SSD;960/1TB,CE8-8IK-7ZEU
+,,,,,,"21.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=120/128SSD,CE8-8IK-7ZEU-1
+,,,,,,"35.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=240/256SSD,CE8-8IK-7ZEU-2
+,,,,,,"55.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=480/512SSD,CE8-8IK-7ZEU-3
+Revise,"Internal Hard Disk Drives (56083)","394225069476","1TB SSD Drive ATA 2.5"" Internal Hard Drive For PC Laptop With Win 7 Pro 64Bit","US","USD",,,,,Lot=Lot of 1|Storage Capacity=120/128SSD;240/256SSD;480/512SSD;960/1TB,Q91-10F-S60V
+,,,,,,"21.55",,"10","Variation",Lot=Lot of 1|Storage Capacity=120/128SSD,Q91-10F-S60V-1-1-1
+,,,,,,"35.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=240/256SSD,Q91-10F-S60V-2-1-1
+,,,,,,"55.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=480/512SSD,Q91-10F-S60V-3-1-1
+Revise,"Internal Hard Disk Drives (56083)","394225110400","2TB SATA 3.5"" Dell HP Lenovo Desktop Hard drive Win 10 Pro 64-Bit Legacy","US","USD",,,,,Lot=Lot of 1|Storage Capacity=250GB;320GB;500GB;1TB;2TB,SIH-HZJ-02MA
+,,,,,,"16.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=250GB,SIH-HZJ-02MA-1
+,,,,,,"18.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=320GB,SIH-HZJ-02MA-2
+,,,,,,"21.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=500GB,SIH-HZJ-02MA-3
+,,,,,,"31.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=1TB,SIH-HZJ-02MA-4
+,,,,,,"50.95",,"10","Variation",Lot=Lot of 1|Storage Capacity=2TB,SIH-HZJ-02MA-5
+Revise,"Internal Hard Disk Drives (56083)","394253881308","Custom 1TB HDD/SSD 2.5"" SATA Hard Drive for Laptop Win10 Pro Installed Legacy 64","US","USD",,,,,STORAGE=250GB HDD;320GB HDD;500GB HDD;1TB HDD;128GB SSD;256GB SSD;1TB SSD,O1WT-9RN-V4EFB
+,,,,,,"15.25",,"0","Variation",STORAGE=250GB HDD,O1WT-9RN-V4EFB_25
+,,,,,,"17.25",,"0","Variation",STORAGE=320GB HDD,O1WT-9RN-V4EFB_32
+,,,,,,"20.25",,"0","Variation",STORAGE=500GB HDD,O1WT-9RN-V4EFB_50
+,,,,,,"43.25",,"0","Variation",STORAGE=1TB HDD,O1WT-9RN-V4EFB_1T
+,,,,,,"20.25",,"10","Variation",STORAGE=128GB SSD,O1WT-9RN-V4EFB_12
+,,,,,,"29.25",,"10","Variation",STORAGE=256GB SSD,O1WT-9RN-V4EFB_252
+Revise,"Internal Hard Disk Drives (56083)","394308307502","1TB HDD/SSD 2.5"" SATA Hard Drive Laptop with Windows 10 Pro Installed Legacy","US","USD",,,,,Storage-Capacity=128GB SSD;250GB HDD;256GB SSD;500GB HDD;512GB SSD;1TB HDD;1TB SSD,29064141
+,,,,,,"19.99",,"10","Variation",Storage-Capacity=128GB SSD,HPBDS28_12
+,,,,,,"17.99",,"0","Variation",Storage-Capacity=250GB HDD,HPBDS28_25
+,,,,,,"30.99",,"10","Variation",Storage-Capacity=256GB SSD,HPBDS28_252
+,,,,,,"22.99",,"0","Variation",Storage-Capacity=500GB HDD,HPBDS28_50
+,,,,,,"50.99",,"10","Variation",Storage-Capacity=512GB SSD,HPBDS28_51
+,,,,,,"44.99",,"0","Variation",Storage-Capacity=1TB HDD,HPBDS28_1T
+Revise,"Internal Hard Disk Drives (56083)","394540835578","1TB HDD/SSD 2.5"" SATA Hard Drive for Laptop with Win 10/Win 11 Pro Pre-installed","US","USD",,,,,Operating System=Windows 11 Pro;Windows 10 Pro|STORAGE=512GB SSD;256GB SSD;128GB SSD,29716513
+,,,,,,"18.57",,"10","Variation",Operating System=Windows 10 Pro|STORAGE=128GB SSD,IF_ZCA_Wi_12
+,,,,,,"27.12",,"10","Variation",Operating System=Windows 10 Pro|STORAGE=256GB SSD,IF_ZCA_Wi_252
+,,,,,,"18.95",,"10","Variation",Operating System=Windows 11 Pro|STORAGE=128GB SSD,IF_ZCA_Wi2_12
+,,,,,,"27.5",,"10","Variation",Operating System=Windows 11 Pro|STORAGE=256GB SSD,IF_ZCA_Wi2_252
+,,,,,,"43.27",,"10","Variation",Operating System=Windows 10 Pro|STORAGE=512GB SSD,IF_ZCA_Wi_51
+,,,,,,"43.65",,"10","Variation",Operating System=Windows 11 Pro|STORAGE=512GB SSD,IF_ZCA_Wi2_51
+Revise,"Internal Hard Disk Drives (56083)","394552423282","500GB 2.5"" SATA Hard Drive Laptop with Windows 10 Pro Legacy 64 SALE","US","USD","24.83",,"0",,,HDK-SG-3X2
+Revise,"CD, DVD & Blu-ray Drives (131542)","394575058049",Lots of 2-DVDRW SATA Drive DVD CD RW Drive Burner For Internal Desktop Computer,"US","USD","26.65",,"9",,,IDW-PZ-YC4
+Revise,"Internal Hard Disk Drives (56083)","394580676380","500GB HDD/SSD 2.5"" SATA Hard Drive for Laptop Windows 10 Pro Installed Legacy","US","USD",,,,,STORAGE=500GB HDD;512GB SSD,WJ6-N1-MWG
+,,,,,,"20.55",,"0","Variation",STORAGE=500GB HDD,WJ6-N1-MWG_50
+,,,,,,"50.35",,"10","Variation",STORAGE=512GB SSD,WJ6-N1-MWG_51
+Revise,"Internal Hard Disk Drives (56083)","394618840945","1TB HDD/SSD 2.5"" SATA Hard Drive Laptop with Windows 10 Pro Legacy 64","US","USD",,,,,Size=160GB SATA Pro;250GB SATA Pro;500GB SATA Pro;1TB SATA Pro;120GB SSD Pro;240GB SSD Pro;480GB SSD Pro,30035000
+,,,,,,"18.2",,"0","Variation",Size=250GB SATA Pro,IF_027FC4C78Z_25
+,,,,,,"25.2",,"0","Variation",Size=500GB SATA Pro,IF_027FC4C78Z_50
+,,,,,,"45.2",,"0","Variation",Size=1TB SATA Pro,IF_027FC4C78Z_1T
+,,,,,,"20.2",,"0","Variation",Size=120GB SSD Pro,IF_027FC4C78Z_12
+,,,,,,"34.22",,"0","Variation",Size=240GB SSD Pro,IF_027FC4C78Z_24
+,,,,,,"53.2",,"0","Variation",Size=480GB SSD Pro,IF_027FC4C78Z_48
+Revise,"CPUs/Processors (164)","394675190227",LOT of 3 Intel Core i3-2120 3.30GHz Dual-Core CPU Processor LGA1155 Socket SR05Y,"US","USD","23.17",,"10",,,C0I-LE-MJE
+Revise,"CPUs/Processors (164)","394675235155",Lot of 4 Intel Core i3-2120 Dual Core 3.30GHz 3M LGA1155 Desktop Processor CPU,"US","USD","23.83",,"10",,,VQ8-FY-LZ9
+Revise,"CPUs/Processors (164)","394675480741",Lot of 2 Intel Core i3-2120  Core 3.30GHz SR05Y LGA1155 Desktop Processor L-A,"US","USD","17.75",,"10",,,4XI-6D-RBN
+Revise,"CPUs/Processors (164)","394677134947",Intel Core i3-2120 3.3 GHz 5 GT/s LGA 1155 Desktop CPU Processor SR05Y,"US","USD","8.33",,"10",,,X4K-M5-ZMX
+Revise,"Internal Hard Disk Drives (56083)","394723183431","1TB HDD/SSD 2.5"" SATA Hard Drive Laptop with Windows 10 Pro Installed Legacy 64","US","USD",,,,,Storage size=250GB HDD;320GB HDD;500GB HDD;1TB HDD;120GB SSD;250GB SSD;480GB SSD;1TB SSD,30265293
+,,,,,,"18.25",,"0","Variation",Storage size=250GB HDD,2MT-RXZ_25
+,,,,,,"19.25",,"0","Variation",Storage size=320GB HDD,2MT-RXZ_32
+,,,,,,"23.25",,"0","Variation",Storage size=500GB HDD,2MT-RXZ_50
+,,,,,,"44.25",,"0","Variation",Storage size=1TB HDD,2MT-RXZ_1T
+,,,,,,"25.25",,"10","Variation",Storage size=120GB SSD,2MT-RXZ_12
+,,,,,,"33.25",,"10","Variation",Storage size=250GB SSD,2MT-RXZ_252
+,,,,,,"50.25",,"10","Variation",Storage size=480GB SSD,2MT-RXZ_48
+Revise,"Internal Hard Disk Drives (56083)","394758879765","Internal 500GB 2.5"" SATA Laptop Hard Drive with - Windows 7 Pro Installed","US","USD","20.2",,"0",,,WIN725FF500G
+Revise,"Solid State Drives (175669)","394988105499",128 256 512 GB 1TB SSD M.2 NVMe PCIe Hard Drive Laptop w/ Windows 10 Pro UEFI 64,"US","USD",,,,,CAPACITY=128GB SSD;256GB SSD;512GB SSD;1TB SSD,31019846
+,,,,,,"26.95",,"10","Variation",CAPACITY=128GB SSD,IF-SSD-911-WIN_12
+,,,,,,"33.95",,"10","Variation",CAPACITY=256GB SSD,IF-SSD-911-WIN_25
+,,,,,,"54.95",,"10","Variation",CAPACITY=512GB SSD,IF-SSD-911-WIN_51
+,,,,,,"85.95",,"10","Variation",CAPACITY=1TB SSD,IF-SSD-911-WIN_1T
+Revise,"Solid State Drives (175669)","395003110633",Lenovo Samsung 512GB NVMe M.2 SSD Solid State with Windows 10 Pro Installed,"US","USD","88.75",,"10",,,HKF-1L1Y-WL1A
+Revise,"Solid State Drives (175669)","395003135088",128 256 512 GB 1TB SSD M.2 PCIe Single Notch Hard Drive Laptop w/ Windows 10 Pro,"US","USD",,,,,CAPACITY=128GB SSD;256GB SSD;512GB SSD;1TB SSD,31020309
+,,,,,,"27.15",,"10","Variation",CAPACITY=128GB SSD,IF-SSD-911-WIN_12-1
+,,,,,,"31.15",,"10","Variation",CAPACITY=256GB SSD,IF-SSD-911-WIN_25-1
+,,,,,,"56.95",,"10","Variation",CAPACITY=512GB SSD,IF-SSD-911-WIN_51-1
+,,,,,,"78.95",,"10","Variation",CAPACITY=1TB SSD,IF-SSD-911-WIN_1T-1
+Revise,"Solid State Drives (175669)","395032218858",M.2 NVMe SSD 128GB 256GB 512GB Single Notch with Windows Installed 10 / 11,"US","USD",,,,,Windows Version=Windows 10 Pro;Windows 11 Pro|Storage=128GB;256GB;512GB;1TB,31099674
+,,,,,,"27.25",,"10","Variation",Windows Version=Windows 10 Pro|Storage=128GB,IF-12KM-2F_Wi_12
+,,,,,,"31.25",,"9","Variation",Windows Version=Windows 10 Pro|Storage=256GB,IF-12KM-2F_Wi_25
+,,,,,,"55.25",,"10","Variation",Windows Version=Windows 10 Pro|Storage=512GB,IF-12KM-2F_Wi_51
+,,,,,,"75.25",,"10","Variation",Windows Version=Windows 10 Pro|Storage=1TB,IF-12KM-2F_Wi_1T
+,,,,,,"27.55",,"10","Variation",Windows Version=Windows 11 Pro|Storage=128GB,IF-12KM-2F_Wi2_12
+,,,,,,"31.55",,"9","Variation",Windows Version=Windows 11 Pro|Storage=256GB,IF-12KM-2F_Wi2_25
+,,,,,,"55.55",,"9","Variation",Windows Version=Windows 11 Pro|Storage=512GB,IF-12KM-2F_Wi2_51
+,,,,,,"75.55",,"10","Variation",Windows Version=Windows 11 Pro|Storage=1TB,IF-12KM-2F_Wi2_1T
+Revise,"Internal Hard Disk Drives (56083)","394225069516","512GB SSD Drive SATA 2.5"" Internal Hard Drive For PC Laptop Windows 10 Pro 64Bit","US","USD",,,,,Storage Capacity=120/128SSD;240/256SSD;480/512SSD,Q91-10F-S60V
+,,,,,,"18.95",,"0","Variation",Storage Capacity=120/128SSD,Q91-10F-S60V_12
+,,,,,,"32.95",,"0","Variation",Storage Capacity=240/256SSD,Q91-10F-S60V_24
+,,,,,,"53.95",,"0","Variation",Storage Capacity=480/512SSD,Q91-10F-S60V_48
+Revise,"Solid State Drives (175669)","395416739924",M.2 NVMe SSD 256GB Single Notch with Windows Installed 7/10/11 Pro,"US","USD",,,,,Operating System=Windows 7 Pro;Windows 10 Pro;Windows 11 Pro,BBS-B26Z-QNCI
+,,,,,,"29.31",,"10","Variation",Operating System=Windows 7 Pro,BBS-B26Z-QNCI_Wi
+,,,,,,"29.37",,"10","Variation",Operating System=Windows 10 Pro,BBS-B26Z-QNCI_Wi2
+,,,,,,"29.49",,"10","Variation",Operating System=Windows 11 Pro,BBS-B26Z-QNCI_Wi3
+Revise,"Drive Bay Caddies (158816)","395529210994","Dell F767D R494D Optiplex Precision 3.5"" to 2.5"" SSD Hard Drive Caddy Adapter","US","USD","8.95",,"10",,,HIT0-RUYM-IH7MG
+Revise,"Chargers & Cradles (123417)","395649698854",Lot 20W USB-C Type C Fast Charger Power Adapter Block For iPhone 15 14 13 12 Pro,"US","USD",,,,,PACK=1 ADAPTER;2 ADAPTERS;3 ADAPTERS;5 ADAPTERS;10 ADAPTERS;20 ADAPTERS;50 ADAPTERS;100 ADAPTERS,5G0-NMZ2-1B78
+,,,,,,"7.25",,"10","Variation",PACK=1 ADAPTER,IF_B66AF316
+,,,,,,"11.25",,"10","Variation",PACK=2 ADAPTERS,IF_A14E86BE
+,,,,,,"14.25",,"10","Variation",PACK=3 ADAPTERS,IF_D1E59DE5
+,,,,,,"23.25",,"10","Variation",PACK=5 ADAPTERS,IF_5AA72EF8
+,,,,,,"43.25",,"10","Variation",PACK=10 ADAPTERS,IF_8F50A737
+,,,,,,"68.25",,"10","Variation",PACK=20 ADAPTERS,IF_AA2D2383
+,,,,,,"160.25",,"10","Variation",PACK=50 ADAPTERS,IF_D65DA018
+,,,,,,"325.25",,"10","Variation",PACK=100 ADAPTERS,IF_35546A09
+Revise,"Cables & Adapters (123422)","395649956540",Wholesale PD 20W USB C Type C Adapter Fast Charger For iPhone 14/13/12/11/ProMax,"US","USD",,,,,PACK=1 ADAPTER;2 ADAPTERS;3 ADAPTERS;5 ADAPTERS;10 ADAPTERS;20 ADAPTERS;50 ADAPTERS;100 ADAPTERS,0JF-3RMD-71CF
+,,,,,,"7.85",,"10","Variation",PACK=1 ADAPTER,NKZ-8BWS_1
+,,,,,,"11.85",,"10","Variation",PACK=2 ADAPTERS,NKZ-8BWS_2
+,,,,,,"14.85",,"10","Variation",PACK=3 ADAPTERS,NKZ-8BWS_3
+,,,,,,"23.85",,"10","Variation",PACK=5 ADAPTERS,NKZ-8BWS_5
+,,,,,,"43.85",,"10","Variation",PACK=10 ADAPTERS,NKZ-8BWS_10
+,,,,,,"71.85",,"10","Variation",PACK=20 ADAPTERS,NKZ-8BWS_20
+,,,,,,"168.85",,"10","Variation",PACK=50 ADAPTERS,NKZ-8BWS_50
+,,,,,,"325.85",,"10","Variation",PACK=100 ADAPTERS,NKZ-8BWS_102
+Revise,"Internal Hard Disk Drives (56083)","395706978395","HDD/SSD 2.5"" SATA or NVMe Hard Drive with Windows 10 or Windows 11 Pro Installed","US","USD",,,,,"Operating System=Windows 10 Pro;Windows 11 pro|Storage Size=250GB HDD;320GB HDD;500GB HDD;1TB HDD;128GB  2.5"";256GB 2.5"";128GB NVMe;256GB NVMe",
+,,,,,,"18.55",,"0","Variation",Operating System=Windows 10 Pro|Storage Size=250GB HDD,5PY-DI0_Wi_25
+,,,,,,"19.55",,"0","Variation",Operating System=Windows 10 Pro|Storage Size=320GB HDD,5PY-DI0_Wi_32
+,,,,,,"24.55",,"0","Variation",Operating System=Windows 10 Pro|Storage Size=500GB HDD,5PY-DI0_Wi_50
+,,,,,,"44.55",,"0","Variation",Operating System=Windows 10 Pro|Storage Size=1TB HDD,5PY-DI0_Wi_1T
+,,,,,,"24.55",,"10","Variation","Operating System=Windows 10 Pro|Storage Size=128GB  2.5""",5PY-DI0_Wi_12
+,,,,,,"33.55",,"10","Variation","Operating System=Windows 10 Pro|Storage Size=256GB 2.5""",5PY-DI0_Wi_252
+,,,,,,"28.55",,"10","Variation",Operating System=Windows 10 Pro|Storage Size=128GB NVMe,5PY-DI0_Wi_122
+,,,,,,"34.55",,"10","Variation",Operating System=Windows 10 Pro|Storage Size=256GB NVMe,5PY-DI0_Wi_253
+,,,,,,"18.99",,"0","Variation",Operating System=Windows 11 pro|Storage Size=250GB HDD,5PY-DI0_Wi2_25
+,,,,,,"19.99",,"0","Variation",Operating System=Windows 11 pro|Storage Size=320GB HDD,5PY-DI0_Wi2_32
+,,,,,,"24.99",,"0","Variation",Operating System=Windows 11 pro|Storage Size=500GB HDD,5PY-DI0_Wi2_50
+,,,,,,"44.99",,"0","Variation",Operating System=Windows 11 pro|Storage Size=1TB HDD,5PY-DI0_Wi2_1T
+,,,,,,"24.99",,"10","Variation","Operating System=Windows 11 pro|Storage Size=128GB  2.5""",5PY-DI0_Wi2_12
+,,,,,,"33.99",,"10","Variation","Operating System=Windows 11 pro|Storage Size=256GB 2.5""",5PY-DI0_Wi2_252
+,,,,,,"28.99",,"10","Variation",Operating System=Windows 11 pro|Storage Size=128GB NVMe,5PY-DI0_Wi2_122
+,,,,,,"34.99",,"10","Variation",Operating System=Windows 11 pro|Storage Size=256GB NVMe,5PY-DI0_Wi2_253
+Revise,"Mice, Trackballs & Touchpads (23160)","395871384682","Apple A1152 Wired USB Mighty Mouse MB112LL/B - Optical, White, Tested","US","USD","18.33",,"8",,,L4K2-FWMY-PM6K1
+Revise,"VoIP Business Phones/IP PBX (61839)","395880206741",Cisco Phone CP-7965G 7965g IP Color Display Base Handset,"US","USD","48.33",,"3",,,2QK3-YOUK-81D2L
+Revise,"Overhead Projectors (67094)","395880735715",Elmo P10 Digital Document Projector No Power Adapter,"US","USD","73.75",,"2",,,TWFC-UEBB-LHZQH
+Revise,"VoIP Business Phones/IP PBX (61839)","395880817756",Cisco Phone CP-7965G 7965g IP Color Display Base Handset,"US","USD","46.65",,"8",,,3UE9-KOCK-7BG7J
+Revise,"Monitors (80053)","395892472365",DELL UltraSharp 2407WFPb  Widescreen LCD Monitor With Stand & soundbar,"US","USD","88.8",,"0",,,HK6V-YOMD-KYBS1
+Revise,"Monitor Mounts & Stands (51052)","395997468296",Ergotron Sit Stand Wall Mount System Monitor & Keyboard Tray & PC Tray,"US","USD","56.25",,"10",,,FH9I-2GK2-RN439
+Revise,"CPUs/Processors (164)","396252933612",Intel Core i3-4130 3.40GHz SR1NP 3MB CPU Processor 5GT/s LGA1150 4th Gen,"US","USD","7.0",,"10",,,2QYB-W7E-F79NE
+Revise,"CPUs/Processors (164)","396253027179",Lot of 10 Intel Core i3 3.40 Ghz LGA 1150 4th gen CPU Processor US Seller,"US","USD","48.25",,"10",,,WX42-TOU-XB2L5
+Revise,"Graphics/Video Cards (27386)","396332315928",NVIDIA  P2010 GEFORCE  GT 640 1024MB DDR5 P2010GRAPHICS CARD,"US","USD","39.95",,"1",,,LZ51-NDU-11NXC
+Revise,"Cell Phones & Smartphones (9355)","396444457756",Apple iPhone SE 2nd Gen 64GB  Factory Unlocked works only with Tmobile- OPEN BOX,"US","USD","115.25",,"5",,,IPSE-2ND-GEN2
+Revise,"PC Desktops & All-In-Ones (179)","396767148169",HP PRO 3500 MIDTOWER PC INTEL CORE i3-3220 3.3GHz 8GB 500GB WINDOWS 10 PRO,"US","USD","161.67",,"10",,,H39U-P2G8-PFILT
+Revise,"PC Desktops & All-In-Ones (179)","396817785004",Dell Desktop PC Windows 11 Pro Intel Core i7 • Upto 32GB RAM • Upto 1TB SSD WiFi,"US","USD",,,,,CPU=Intel i3 8th Gen;Intel i5 8th Gen;Intel i7 8th Gen|RAM=8GB;16GB;32GB|Storage=256 NVME SSD;512 NVME SSD;1 TB NVME SSD|OS=Windows 10 pro;Windows 11 pro,33729818
+,,,,,,"173.83",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In_8G_25_Wi
+,,,,,,"198.48",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In_8G_25_Wi2
+,,,,,,"209.46",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In_8G_51_Wi
+,,,,,,"213.73",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In_8G_51_Wi2
+,,,,,,"271.3",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In_8G_1 _Wi
+,,,,,,"273.58",,"0","Variation",CPU=Intel i3 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In_8G_1 _Wi2
+,,,,,,"207.46",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In_16_25_Wi
+,,,,,,"223.42",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In_16_25_Wi2
+,,,,,,"233.4",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In_16_51_Wi
+,,,,,,"249.36",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In_16_51_Wi2
+,,,,,,"282.13",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In_16_1 _Wi
+,,,,,,"313.2",,"0","Variation",CPU=Intel i3 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In_16_1 _Wi2
+,,,,,,"252.68",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In_32_25_Wi
+,,,,,,"282.27",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In_32_25_Wi2
+,,,,,,"279.28",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In_32_51_Wi
+,,,,,,"294.48",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In_32_51_Wi2
+,,,,,,"330.58",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In_32_1 _Wi
+,,,,,,"364.07",,"0","Variation",CPU=Intel i3 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In_32_1 _Wi2
+,,,,,,"227.03",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In2_8G_25_Wi
+,,,,,,"242.23",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In2_8G_25_Wi2
+,,,,,,"265.98",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In2_8G_51_Wi
+,,,,,,"281.18",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In2_8G_51_Wi2
+,,,,,,"327.73",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In2_8G_1 _Wi
+,,,,,,"328.68",,"0","Variation",CPU=Intel i5 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In2_8G_1 _Wi2
+,,,,,,"244.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In2_16_25_Wi
+,,,,,,"254.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In2_16_25_Wi2
+,,,,,,"275.48",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In2_16_51_Wi
+,,,,,,"290.68",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In2_16_51_Wi2
+,,,,,,"310.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In2_16_1 _Wi
+,,,,,,"335.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In2_16_1 _Wi2
+,,,,,,"265.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In2_32_25_Wi
+,,,,,,"275.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In2_32_25_Wi2
+,,,,,,"295.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In2_32_51_Wi
+,,,,,,"305.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In2_32_51_Wi2
+,,,,,,"352.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In2_32_1 _Wi
+,,,,,,"380.25",,"0","Variation",CPU=Intel i5 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In2_32_1 _Wi2
+,,,,,,"223.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In3_8G_25_Wi
+,,,,,,"235.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In3_8G_25_Wi2
+,,,,,,"240.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In3_8G_51_Wi
+,,,,,,"250.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In3_8G_51_Wi2
+,,,,,,"285.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In3_8G_1 _Wi
+,,,,,,"295.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=8GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In3_8G_1 _Wi2
+,,,,,,"237.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In3_16_25_Wi
+,,,,,,"245.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In3_16_25_Wi2
+,,,,,,"260.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In3_16_51_Wi
+,,,,,,"270.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In3_16_51_Wi2
+,,,,,,"298.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In3_16_1 _Wi
+,,,,,,"308.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=16GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In3_16_1 _Wi2
+,,,,,,"270.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 10 pro,PYR5_In3_32_25_Wi
+,,,,,,"280.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=256 NVME SSD|OS=Windows 11 pro,PYR5_In3_32_25_Wi2
+,,,,,,"293.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 10 pro,PYR5_In3_32_51_Wi
+,,,,,,"298.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=512 NVME SSD|OS=Windows 11 pro,PYR5_In3_32_51_Wi2
+,,,,,,"330.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 10 pro,PYR5_In3_32_1 _Wi
+,,,,,,"340.25",,"0","Variation",CPU=Intel i7 8th Gen|RAM=32GB|Storage=1 TB NVME SSD|OS=Windows 11 pro,PYR5_In3_32_1 _Wi2
+Revise,"PC Desktops & All-In-Ones (179)","396836992473",Dell Windows 11 Pro Desktop Computer PC Core i7 Upto 32GB RAM Upto 1TB SSD,"US","USD",,,,,Operating System=Windows 11;Windows 10|Memory=8GB;16GB;32GB|Storage=256GB SSD;512GB SSD;1TB SSD|Accessories=NONE,33729204
+,,,,,,"251.25",,"10","Variation",Operating System=Windows 11|Memory=8GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-8
+,,,,,,"292.25",,"10","Variation",Operating System=Windows 11|Memory=8GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-10
+,,,,,,"342.25",,"10","Variation",Operating System=Windows 11|Memory=8GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-12
+,,,,,,"275.25",,"10","Variation",Operating System=Windows 11|Memory=16GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-22
+,,,,,,"299.25",,"10","Variation",Operating System=Windows 11|Memory=16GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-24
+,,,,,,"367.25",,"10","Variation",Operating System=Windows 11|Memory=16GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-26
+,,,,,,"337.25",,"10","Variation",Operating System=Windows 11|Memory=32GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-36
+,,,,,,"362.25",,"10","Variation",Operating System=Windows 11|Memory=32GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-38
+,,,,,,"417.25",,"10","Variation",Operating System=Windows 11|Memory=32GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-40
+,,,,,,"202.25",,"10","Variation",Operating System=Windows 10|Memory=8GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-50
+,,,,,,"221.25",,"10","Variation",Operating System=Windows 10|Memory=8GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-52
+,,,,,,"262.25",,"10","Variation",Operating System=Windows 10|Memory=8GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-54
+,,,,,,"232.25",,"10","Variation",Operating System=Windows 10|Memory=16GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-64
+,,,,,,"257.25",,"10","Variation",Operating System=Windows 10|Memory=16GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-66
+,,,,,,"322.25",,"10","Variation",Operating System=Windows 10|Memory=16GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-68
+,,,,,,"302.25",,"10","Variation",Operating System=Windows 10|Memory=32GB|Storage=256GB SSD|Accessories=NONE,URH-CNA-DBR-78
+,,,,,,"323.25",,"10","Variation",Operating System=Windows 10|Memory=32GB|Storage=512GB SSD|Accessories=NONE,URH-CNA-DBR-80
+,,,,,,"407.25",,"10","Variation",Operating System=Windows 10|Memory=32GB|Storage=1TB SSD|Accessories=NONE,URH-CNA-DBR-82
+Revise,"PC Desktops & All-In-Ones (179)","396840294062","DELL Desktop Computer PC i7,up to 32GB RAM,1TB m.2 SSD, Windows 10/11, WiFi","US","USD",,,,,Operating System=Windows 11 Pro;Windows 10 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=128 GB;250 GB;500 GB;1 TB|Accessories=NONE;RGB Keyboard & Mouse,J8T-P82-FEB
+,,,,,,"141.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB
+,,,,,,"150.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-1
+,,,,,,"172.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-2
+,,,,,,"182.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-3
+,,,,,,"213.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-4
+,,,,,,"222.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-5
+,,,,,,"255.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-6
+,,,,,,"266.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-7
+,,,,,,"157.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB-8
+,,,,,,"167.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-9
+,,,,,,"189.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-10
+,,,,,,"199.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-11
+,,,,,,"231.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-12
+,,,,,,"241.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-13
+,,,,,,"272.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-14
+,,,,,,"282.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-15
+,,,,,,"184.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB-16
+,,,,,,"194.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-17
+,,,,,,"213.25",,"9","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-18
+,,,,,,"223.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-19
+,,,,,,"257.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-20
+,,,,,,"267.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-21
+,,,,,,"300.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-22
+,,,,,,"310.25",,"9","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-23
+,,,,,,"125.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB-24
+,,,,,,"135.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-25
+,,,,,,"162.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-26
+,,,,,,"172.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-27
+,,,,,,"204.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-28
+,,,,,,"214.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-29
+,,,,,,"247.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-30
+,,,,,,"257.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-31
+,,,,,,"147.25",,"9","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB-32
+,,,,,,"157.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-33
+,,,,,,"177.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-34
+,,,,,,"187.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-35
+,,,,,,"220.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-36
+,,,,,,"232.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-37
+,,,,,,"264.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-38
+,,,,,,"274.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-39
+,,,,,,"172.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=NONE,J8T-P82-FEB-40
+,,,,,,"183.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-41
+,,,,,,"203.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=NONE,J8T-P82-FEB-42
+,,,,,,"216.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-43
+,,,,,,"257.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=NONE,J8T-P82-FEB-44
+,,,,,,"267.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-45
+,,,,,,"289.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,J8T-P82-FEB-46
+,,,,,,"300.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,J8T-P82-FEB-47
+Revise,"PC Desktops & All-In-Ones (179)","396840594132",Dell OptiPlex Desktop Computer PC i7 Up To 32GB RAM 1TB SSD Windows 10/11 Wi-Fi,"US","USD",,,,,Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=256 GB;512 GB;1 TB|Accessories=NONE;HDMI Cable;Keyboard & Mouse,33734590
+,,,,,,"162.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5
+,,,,,,"165.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-1
+,,,,,,"171.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-2
+,,,,,,"183.0",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-3
+,,,,,,"196.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-4
+,,,,,,"199.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-5
+,,,,,,"217.15",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-6
+,,,,,,"230.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-7
+,,,,,,"236.15",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-8
+,,,,,,"178.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5-9
+,,,,,,"196.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-10
+,,,,,,"202.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-11
+,,,,,,"191.56",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-12
+,,,,,,"205.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-13
+,,,,,,"253.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-14
+,,,,,,"239.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-15
+,,,,,,"247.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-16
+,,,,,,"253.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-17
+,,,,,,"200.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5-18
+,,,,,,"205.45",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-19
+,,,,,,"210.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-20
+,,,,,,"242.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-21
+,,,,,,"248.45",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-22
+,,,,,,"252.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-23
+,,,,,,"287.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-24
+,,,,,,"294.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-25
+,,,,,,"298.75",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-26
+,,,,,,"174.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5-27
+,,,,,,"178.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-28
+,,,,,,"184.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-29
+,,,,,,"194.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-30
+,,,,,,"202.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-31
+,,,,,,"207.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-32
+,,,,,,"225.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-33
+,,,,,,"235.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-34
+,,,,,,"241.55",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-35
+,,,,,,"187.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5-36
+,,,,,,"194.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-37
+,,,,,,"197.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-38
+,,,,,,"202.55",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-39
+,,,,,,"211.55",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-40
+,,,,,,"220.55",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-41
+,,,,,,"245.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-42
+,,,,,,"254.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-43
+,,,,,,"262.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-44
+,,,,,,"212.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=NONE,NG72-LZ0-CPEW5-45
+,,,,,,"222.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-46
+,,,,,,"227.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-47
+,,,,,,"258.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=NONE,NG72-LZ0-CPEW5-48
+,,,,,,"265.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-49
+,,,,,,"268.75",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-50
+,,,,,,"298.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,NG72-LZ0-CPEW5-51
+,,,,,,"306.55",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=HDMI Cable,NG72-LZ0-CPEW5-52
+,,,,,,"308.45",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=Keyboard & Mouse,NG72-LZ0-CPEW5-53
+Revise,"PC Laptops & Netbooks (177)","396847932745",Dell Latitude Laptop 14” Screen Intel Core i5 UPTO 16GB Ram 1TB SSD HDMI WiFi,"US","USD",,,,,Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB|Storage Capacity=500GB HDD;1TB HDD;256GB SSD;512GB SSD;1TB SSD,5SJ-5RQ-BQC
+,,,,,,"192.35",,"1","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Storage Capacity=500GB HDD,5SJ-5RQ-BQC
+,,,,,,"220.9",,"1","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Storage Capacity=1TB HDD,5SJ-5RQ-BQC-1
+,,,,,,"203.44",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Storage Capacity=256GB SSD,5SJ-5RQ-BQC-2
+,,,,,,"253.89",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Storage Capacity=512GB SSD,5SJ-5RQ-BQC-3
+,,,,,,"287.97",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Storage Capacity=1TB SSD,5SJ-5RQ-BQC-4
+,,,,,,"225.85",,"1","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Storage Capacity=500GB HDD,5SJ-5RQ-BQC-5
+,,,,,,"237.77",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Storage Capacity=1TB HDD,5SJ-5RQ-BQC-6
+,,,,,,"220.8",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Storage Capacity=256GB SSD,5SJ-5RQ-BQC-7
+,,,,,,"288.19",,"1","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Storage Capacity=512GB SSD,5SJ-5RQ-BQC-8
+,,,,,,"327.05",,"0","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Storage Capacity=1TB SSD,5SJ-5RQ-BQC-9
+,,,,,,"196.09",,"1","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Storage Capacity=500GB HDD,5SJ-5RQ-BQC-10
+,,,,,,"220.8",,"0","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Storage Capacity=1TB HDD,5SJ-5RQ-BQC-11
+,,,,,,"208.87",,"1","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Storage Capacity=256GB SSD,5SJ-5RQ-BQC-12
+,,,,,,"259.19",,"0","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Storage Capacity=512GB SSD,5SJ-5RQ-BQC-13
+,,,,,,"292.47",,"0","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Storage Capacity=1TB SSD,5SJ-5RQ-BQC-14
+,,,,,,"228.47",,"1","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Storage Capacity=500GB HDD,5SJ-5RQ-BQC-15
+,,,,,,"241.89",,"1","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Storage Capacity=1TB HDD,5SJ-5RQ-BQC-16
+,,,,,,"242.02",,"0","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Storage Capacity=256GB SSD,5SJ-5RQ-BQC-17
+,,,,,,"303.67",,"2","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Storage Capacity=512GB SSD,5SJ-5RQ-BQC-18
+,,,,,,"336.84",,"3","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Storage Capacity=1TB SSD,5SJ-5RQ-BQC-19
+Revise,"PC Desktops & All-In-Ones (179)","396869851001","DELL Desktop Computer PC i5,up to 32GB RAM,1TB m.2 SSD, Windows 10/11, WiFi","US","USD",,,,,Operating System=Windows 11 Pro;Windows 10 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=128 GB;250 GB;500 GB;1 TB|Accessories=NONE;RGB Keyboard & Mouse,D9F-7IT-U3V
+,,,,,,"144.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=NONE,IF_8F7BC5BA
+,,,,,,"153.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_69CF45FE
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=NONE,IF_FFEA9BC5
+,,,,,,"185.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_680D8782
+,,,,,,"216.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=NONE,IF_C3D51335
+,,,,,,"225.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_4420638A
+,,,,,,"258.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,IF_42970DC4
+,,,,,,"269.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_FDC9D546
+,,,,,,"160.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=NONE,IF_DDCF295B
+,,,,,,"170.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_3D8DFD4B
+,,,,,,"192.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=NONE,IF_0F8BDE53
+,,,,,,"202.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_876C4E10
+,,,,,,"234.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=NONE,IF_FA231D2B
+,,,,,,"244.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_1A31D5F9
+,,,,,,"275.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,IF_1DFB7649
+,,,,,,"285.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_0EE07D0C
+,,,,,,"187.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=NONE,IF_F56FA9A9
+,,,,,,"197.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_39622742
+,,,,,,"216.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=NONE,IF_A9393636
+,,,,,,"226.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_DAD8B0DD
+,,,,,,"260.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=NONE,IF_763B954B
+,,,,,,"270.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_21EDD20C
+,,,,,,"303.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,IF_D0C8631C
+,,,,,,"313.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_09BB4997
+,,,,,,"128.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=NONE,IF_CF735A48
+,,,,,,"138.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_D646ABAC
+,,,,,,"165.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=NONE,IF_C60238F9
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_A486D436
+,,,,,,"207.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=NONE,IF_259008BF
+,,,,,,"217.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_5CB1758E
+,,,,,,"250.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=NONE,IF_831EA48D
+,,,,,,"260.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_BA93A82F
+,,,,,,"150.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=NONE,IF_15F83DC2
+,,,,,,"160.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_CF81E465
+,,,,,,"180.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=NONE,IF_F711064B
+,,,,,,"190.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_9E261AC9
+,,,,,,"223.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=NONE,IF_4A722809
+,,,,,,"235.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_9B2B1DA3
+,,,,,,"267.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=NONE,IF_C18E8812
+,,,,,,"277.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_083EAB54
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=NONE,IF_4093E986
+,,,,,,"186.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB|Accessories=RGB Keyboard & Mouse,IF_8BE08C08
+,,,,,,"206.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=NONE,IF_892FB662
+,,,,,,"219.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=250 GB|Accessories=RGB Keyboard & Mouse,IF_AABB427E
+,,,,,,"260.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=NONE,IF_875B654F
+,,,,,,"270.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=500 GB|Accessories=RGB Keyboard & Mouse,IF_A6CD9766
+,,,,,,"292.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=NONE,IF_725D8823
+,,,,,,"303.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB|Accessories=RGB Keyboard & Mouse,IF_E1299351
+Revise,"PC Desktops & All-In-Ones (179)","396870525290","DELL OptiPlex Desktop PC i7,Up to 32GB RAM, 1TB NVME SSD,Windows 10/11,Wifi+BT","US","USD",,,,,Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=256 GB;512 GB;1 TB,33769129
+,,,,,,"146.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB,BYD-YFD-VTQ
+,,,,,,"185.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-1
+,,,,,,"219.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-2
+,,,,,,"165.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB,BYD-YFD-VTQ-3
+,,,,,,"190.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-4
+,,,,,,"240.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-5
+,,,,,,"211.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB,BYD-YFD-VTQ-6
+,,,,,,"225.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-7
+,,,,,,"268.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-8
+,,,,,,"154.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB,BYD-YFD-VTQ-9
+,,,,,,"196.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-10
+,,,,,,"230.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-11
+,,,,,,"192.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB,BYD-YFD-VTQ-12
+,,,,,,"210.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-13
+,,,,,,"250.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-14
+,,,,,,"222.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB,BYD-YFD-VTQ-15
+,,,,,,"235.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB,BYD-YFD-VTQ-16
+,,,,,,"278.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB,BYD-YFD-VTQ-17
+Revise,"PC Desktops & All-In-Ones (179)","396890189364","HP Desktop Computer PC i7, up to 32GB RAM, 2TB SSD, Windows 11/10, i7/i5, WiFi","US","USD",,,,,Processor=Intel Core i5;Intel Core i7|Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=128 GB;256 GB;512 GB;1 TB;2 TB,33782616
+,,,,,,"135.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB,95S-EDV-07P
+,,,,,,"145.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB,95S-EDV-07P-1
+,,,,,,"155.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB,95S-EDV-07P-2
+,,,,,,"205.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB,95S-EDV-07P-3
+,,,,,,"305.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=2 TB,95S-EDV-07P-4
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB,95S-EDV-07P-5
+,,,,,,"175.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB,95S-EDV-07P-6
+,,,,,,"195.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB,95S-EDV-07P-7
+,,,,,,"225.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB,95S-EDV-07P-8
+,,,,,,"315.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=2 TB,95S-EDV-07P-9
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB,95S-EDV-07P-10
+,,,,,,"175.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB,95S-EDV-07P-11
+,,,,,,"195.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB,95S-EDV-07P-12
+,,,,,,"225.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB,95S-EDV-07P-13
+,,,,,,"342.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=2 TB,95S-EDV-07P-14
+,,,,,,"148.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB,95S-EDV-07P-15
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB,95S-EDV-07P-16
+,,,,,,"195.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB,95S-EDV-07P-17
+,,,,,,"235.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB,95S-EDV-07P-18
+,,,,,,"310.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=2 TB,95S-EDV-07P-19
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB,95S-EDV-07P-20
+,,,,,,"175.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB,95S-EDV-07P-21
+,,,,,,"210.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB,95S-EDV-07P-22
+,,,,,,"255.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB,95S-EDV-07P-23
+,,,,,,"345.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=2 TB,95S-EDV-07P-24
+,,,,,,"168.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB,95S-EDV-07P-25
+,,,,,,"208.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB,95S-EDV-07P-26
+,,,,,,"215.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB,95S-EDV-07P-27
+,,,,,,"259.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB,95S-EDV-07P-28
+,,,,,,"325.25",,"10","Variation",Processor=Intel Core i5|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=2 TB,95S-EDV-07P-29
+,,,,,,"145.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB,95S-EDV-07P-30
+,,,,,,"155.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB,95S-EDV-07P-31
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB,95S-EDV-07P-32
+,,,,,,"215.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB,95S-EDV-07P-33
+,,,,,,"289.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=2 TB,95S-EDV-07P-34
+,,,,,,"175.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB,95S-EDV-07P-35
+,,,,,,"195.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB,95S-EDV-07P-36
+,,,,,,"210.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB,95S-EDV-07P-37
+,,,,,,"235.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB,95S-EDV-07P-38
+,,,,,,"320.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=2 TB,95S-EDV-07P-39
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB,95S-EDV-07P-40
+,,,,,,"185.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB,95S-EDV-07P-41
+,,,,,,"215.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB,95S-EDV-07P-42
+,,,,,,"265.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB,95S-EDV-07P-43
+,,,,,,"340.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=2 TB,95S-EDV-07P-44
+,,,,,,"155.25",,"9","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB,95S-EDV-07P-45
+,,,,,,"165.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB,95S-EDV-07P-46
+,,,,,,"175.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB,95S-EDV-07P-47
+,,,,,,"230.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB,95S-EDV-07P-48
+,,,,,,"310.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=2 TB,95S-EDV-07P-49
+,,,,,,"185.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB,95S-EDV-07P-50
+,,,,,,"205.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB,95S-EDV-07P-51
+,,,,,,"205.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB,95S-EDV-07P-52
+,,,,,,"245.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB,95S-EDV-07P-53
+,,,,,,"330.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=2 TB,95S-EDV-07P-54
+,,,,,,"178.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB,95S-EDV-07P-55
+,,,,,,"195.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB,95S-EDV-07P-56
+,,,,,,"220.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB,95S-EDV-07P-57
+,,,,,,"280.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB,95S-EDV-07P-58
+,,,,,,"360.25",,"10","Variation",Processor=Intel Core i7|Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=2 TB,95S-EDV-07P-59
+Revise,"PC Desktops & All-In-Ones (179)","396893719312","HP Desktop Computer PC i5 up to 32GB RAM 1TB NVMe m.2 SSD, Windows10 or 11, WiFi","US","USD",,,,,Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=128 GB;256 GB;512 GB;1 TB,33782674
+,,,,,,"99.0",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB,9EF-3G1-JIV
+,,,,,,"129.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB,9EF-3G1-JIV-1
+,,,,,,"165.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB,9EF-3G1-JIV-2
+,,,,,,"205.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB,9EF-3G1-JIV-3
+,,,,,,"119.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB,9EF-3G1-JIV-4
+,,,,,,"147.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB,9EF-3G1-JIV-5
+,,,,,,"185.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB,9EF-3G1-JIV-6
+,,,,,,"225.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB,9EF-3G1-JIV-7
+,,,,,,"139.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB,9EF-3G1-JIV-8
+,,,,,,"165.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB,9EF-3G1-JIV-9
+,,,,,,"205.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB,9EF-3G1-JIV-10
+,,,,,,"245.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB,9EF-3G1-JIV-11
+,,,,,,"105.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB,9EF-3G1-JIV-12
+,,,,,,"135.29",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB,9EF-3G1-JIV-13
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB,9EF-3G1-JIV-14
+,,,,,,"215.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB,9EF-3G1-JIV-15
+,,,,,,"130.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB,9EF-3G1-JIV-16
+,,,,,,"155.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB,9EF-3G1-JIV-17
+,,,,,,"195.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB,9EF-3G1-JIV-18
+,,,,,,"235.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB,9EF-3G1-JIV-19
+,,,,,,"147.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB,9EF-3G1-JIV-20
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB,9EF-3G1-JIV-21
+,,,,,,"215.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB,9EF-3G1-JIV-22
+,,,,,,"255.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB,9EF-3G1-JIV-23
+Revise,"PC Desktops & All-In-Ones (179)","396899898171","HP Desktop Computer PC i5/i7, up to 32GB RAM Up to 1TB SSD, Windows 11/10 Pro","US","USD",,,,,Processor=Intel Core i5 7th Gen.;Intel Core i7 7th Gen.|Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|Hard Drive Capacity=256GB (SSD);512GB (SSD);1TB (SSD),33793136
+,,,,,,"139.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-4-1
+,,,,,,"159.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-5
+,,,,,,"189.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-6
+,,,,,,"206.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-11
+,,,,,,"220.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-12
+,,,,,,"256.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-13
+,,,,,,"209.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-18
+,,,,,,"240.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-19
+,,,,,,"280.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-20
+,,,,,,"144.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-25
+,,,,,,"160.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-26
+,,,,,,"195.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-27
+,,,,,,"210.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-32
+,,,,,,"220.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-33
+,,,,,,"260.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-34
+,,,,,,"214.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-39
+,,,,,,"245.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-40
+,,,,,,"280.45",,"10","Variation",Processor=Intel Core i5 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-41
+,,,,,,"190.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-46
+,,,,,,"225.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-47
+,,,,,,"265.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-48
+,,,,,,"210.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-53
+,,,,,,"225.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-54
+,,,,,,"260.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-55
+,,,,,,"245.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-60
+,,,,,,"255.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-61
+,,,,,,"290.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-62
+,,,,,,"190.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-67
+,,,,,,"210.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-68
+,,,,,,"245.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-69
+,,,,,,"220.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-74
+,,,,,,"230.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-75
+,,,,,,"265.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-76
+,,,,,,"250.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=256GB (SSD),4XD-HC8-YC8-81
+,,,,,,"270.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=512GB (SSD),4XD-HC8-YC8-82
+,,,,,,"305.45",,"10","Variation",Processor=Intel Core i7 7th Gen.|Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB (SSD),4XD-HC8-YC8-83
+Revise,"PC Desktops & All-In-Ones (179)","396911095771","DELL Desktop Computer PC i5,up to 32GB RAM 1TB SSD, Win10/11, WIFI,DVD-RW","US","USD",,,,,Operating System=Windows 10 Pro;Windows 11 Pro|RAM Size=8 GB;16 GB;32 GB|SSD Capacity=128 GB;256 GB;512 GB;1 TB,33800403
+,,,,,,"125.25",,"8","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=128 GB,IF_BA123A19
+,,,,,,"160.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=256 GB,IF_75F84DA7
+,,,,,,"195.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=512 GB,IF_E9A2D6A7
+,,,,,,"230.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|SSD Capacity=1 TB,IF_5ECB8650
+,,,,,,"175.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=128 GB,IF_2CA16E92
+,,,,,,"200.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=256 GB,IF_130B0915
+,,,,,,"234.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=512 GB,IF_72268247
+,,,,,,"270.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|SSD Capacity=1 TB,IF_39F4BBEB
+,,,,,,"215.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=128 GB,IF_2C73222F
+,,,,,,"240.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=256 GB,IF_2942DABD
+,,,,,,"275.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=512 GB,IF_ADB2936B
+,,,,,,"310.25",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|SSD Capacity=1 TB,IF_D9A3DC42
+,,,,,,"140.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=128 GB,IF_00CBC69C
+,,,,,,"165.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=256 GB,IF_23EA8B63
+,,,,,,"200.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=512 GB,IF_63447A08
+,,,,,,"235.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|SSD Capacity=1 TB,IF_176DAF69
+,,,,,,"180.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=128 GB,IF_755F345D
+,,,,,,"244.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=256 GB,IF_C7221F61
+,,,,,,"254.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=512 GB,IF_B4663C6D
+,,,,,,"279.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|SSD Capacity=1 TB,IF_C07308D3
+,,,,,,"230.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=128 GB,IF_888ED41F
+,,,,,,"265.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=256 GB,IF_FF4ED4F8
+,,,,,,"280.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=512 GB,IF_460893CB
+,,,,,,"315.25",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|SSD Capacity=1 TB,IF_378ECD6C
+Revise,"Monitors (80053)","396960920288","Dell 22″ Widescreen LCD Monitor – 1680×1050/1080p, Includes Stand & VGA Cable","US","USD","58.53",,"10",,,QZI-9UU-PUJ
+Revise,"PC Desktops & All-In-Ones (179)","396983416891",Dell i5 Desktop Computer | Upto 32GB RAM | Upto 1TB SSD | Windows 10/11 Pro,"US","USD",,,,,RAM Size=8 GB;16;32 GB|Hard Drive Capacity=256 GB;512 GB;1TB|Operating System=Windows 10 Pro;Windows 11 Pro,33834589
+,,,,,,"230.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,IF_38266920
+,,,,,,"235.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,IF_8B22FEF6
+,,,,,,"132.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_BD6C5C90
+,,,,,,"140.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_2C8BB817
+,,,,,,"195.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_5F387746
+,,,,,,"200.25",,"10","Variation",RAM Size=8 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_340499B6
+,,,,,,"270.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,IF_0A4511F7
+,,,,,,"240.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,IF_1F84EA10
+,,,,,,"200.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_6025AB1C
+,,,,,,"205.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_CAA95856
+,,,,,,"235.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_39AD308F
+,,,,,,"240.25",,"10","Variation",RAM Size=16|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_9A085DCB
+,,,,,,"240.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,8UU-YDE-UTF
+,,,,,,"245.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,PR5-9KA-919
+,,,,,,"275.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,VKJ-3H8-EZZ
+,,,,,,"280.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,O2E-15E-KAH
+,,,,,,"310.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,T3E-HA6-EGP
+,,,,,,"315.25",,"10","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,WY1-1FI-Z5F
+Revise,"PC Desktops & All-In-Ones (179)","396983853237",Lenovo ThinkCentre M710q tiny i5-7500T 2.7ghz 16GB RAM 256GB SSD Windows 11,"US","USD","150.0",,"0",,,NG72-LZ0-CPEW5
+Revise,"PC Desktops & All-In-Ones (179)","396983992138",Dell Desktop PC Intel i5 | Windows 11 Pro | Up to 32GB RAM | Up to 1TB SSD,"US","USD",,,,,RAM Size=8 GB;16 GB;32 GB|Storage=256GB SSD;512GB SSD;1TB SSD,33835663
+,,,,,,"185.25",,"0","Variation",RAM Size=8 GB|Storage=256GB SSD,IF_D07C238A
+,,,,,,"225.25",,"0","Variation",RAM Size=8 GB|Storage=512GB SSD,IF_DAA66A92
+,,,,,,"265.25",,"0","Variation",RAM Size=8 GB|Storage=1TB SSD,IF_BD6D5B7E
+,,,,,,"240.25",,"0","Variation",RAM Size=16 GB|Storage=256GB SSD,IF_6D89C57B
+,,,,,,"265.25",,"0","Variation",RAM Size=16 GB|Storage=512GB SSD,IF_8810919F
+,,,,,,"305.25",,"0","Variation",RAM Size=16 GB|Storage=1TB SSD,IF_822677B1
+,,,,,,"284.25",,"0","Variation",RAM Size=32 GB|Storage=256GB SSD,IF_7B0BF5BF
+,,,,,,"305.25",,"0","Variation",RAM Size=32 GB|Storage=512GB SSD,IF_F06743C0
+,,,,,,"345.25",,"0","Variation",RAM Size=32 GB|Storage=1TB SSD,IF_86816C12
+Revise,"Barcode Scanners (46706)","396998982702",Alacrity Upgraded 2D Industrial Barcode Scanner w/Wireless Charging Stand Orange,"US","USD","48.99",,"2",,,LET-09A-XAY
+Revise,"Barcode Scanners (46706)","396999073549",Symcode MJ R30 2D Portable Wireless Bluetooth Finger Ring Barcode Scanner Reader,"US","USD","75.0",,"3",,,I1H-7YW-W23
+Revise,"PC Desktops & All-In-Ones (179)","397002556650",Dell OptiPlex Desktop PC Intel i5 | Up to 32GB RAM | Up to 1TB SSD | Win 11 Pro,"US","USD",,,,,RAM Size=8 GB;16 GB;32 GB|Hard Drive Capacity=256;512;1TB SSD|Operating System=Windows 11 Pro,33842793
+,,,,,,"104.99",,"3","Variation",RAM Size=8 GB|Hard Drive Capacity=256|Operating System=Windows 11 Pro,IF_E33FC70B
+,,,,,,"123.19",,"3","Variation",RAM Size=8 GB|Hard Drive Capacity=512|Operating System=Windows 11 Pro,IF_1CCB9390
+,,,,,,"129.49",,"3","Variation",RAM Size=16 GB|Hard Drive Capacity=256|Operating System=Windows 11 Pro,IF_EE81AD7A
+,,,,,,"149.09",,"3","Variation",RAM Size=16 GB|Hard Drive Capacity=512|Operating System=Windows 11 Pro,IF_225569AB
+,,,,,,"153.29",,"3","Variation",RAM Size=32 GB|Hard Drive Capacity=256|Operating System=Windows 11 Pro,IF_305714E4
+,,,,,,"181.99",,"3","Variation",RAM Size=32 GB|Hard Drive Capacity=512|Operating System=Windows 11 Pro,IF_87EC1165
+,,,,,,"147.69",,"3","Variation",RAM Size=8 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_5590DCF6
+,,,,,,"172.19",,"3","Variation",RAM Size=16 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_67783588
+,,,,,,"202.29",,"3","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_97D54737
+Revise,"PC Desktops & All-In-Ones (179)","397003046166",Dell OptiPlex SFF Desktop PC Intel i5 | Up to 32GB RAM | 1TB SSD | Win 10/11 Pro,"US","USD",,,,,RAM Size=8 GB;16 GB;32 GB|Hard Drive Capacity=256 GB;512 GB;1TB|Operating System=Windows 10 Pro;Windows 11 Pro,33843097
+,,,,,,"157.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_E47DD569
+,,,,,,"159.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_445437F5
+,,,,,,"164.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_26EC1044
+,,,,,,"167.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_3A07400F
+,,,,,,"174.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,IF_95A4515A
+,,,,,,"179.99",,"0","Variation",RAM Size=8 GB|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,IF_87E348FD
+,,,,,,"199.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_671CCC53
+,,,,,,"208.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_886732F0
+,,,,,,"229.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_A0EDE828
+,,,,,,"239.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_97C44C93
+,,,,,,"242.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,IF_5582E92E
+,,,,,,"249.99",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,IF_78134AC6
+,,,,,,"285.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_C25CCCD7
+,,,,,,"289.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_52E48F80
+,,,,,,"294.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_CB715290
+,,,,,,"297.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_9BDB7082
+,,,,,,"299.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB|Operating System=Windows 10 Pro,IF_E99656B9
+,,,,,,"329.99",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB|Operating System=Windows 11 Pro,IF_426D4C84
+Revise,"PC Desktops & All-In-Ones (179)","397027214627","DELL OptiPlex Desktop PC i7,Up to 32GB RAM, 1TB NVME SSD,Windows 11 PRO,Wifi+BT","US","USD",,,,,RAM Size=8 GB;16 GB;32 GB|SSD Capacity=256 GB;512 GB;1 TB,33852308
+,,,,,,"168.25",,"3","Variation",RAM Size=8 GB|SSD Capacity=256 GB,IF_0D2B1520
+,,,,,,"198.25",,"3","Variation",RAM Size=8 GB|SSD Capacity=512 GB,IF_ED0E1BA5
+,,,,,,"208.25",,"3","Variation",RAM Size=8 GB|SSD Capacity=1 TB,IF_FF7B1603
+,,,,,,"198.25",,"3","Variation",RAM Size=16 GB|SSD Capacity=256 GB,IF_D1A1779C
+,,,,,,"228.25",,"3","Variation",RAM Size=16 GB|SSD Capacity=512 GB,IF_6AF6FE20
+,,,,,,"278.25",,"3","Variation",RAM Size=16 GB|SSD Capacity=1 TB,IF_B144F287
+,,,,,,"278.25",,"3","Variation",RAM Size=32 GB|SSD Capacity=256 GB,IF_EE43107B
+,,,,,,"298.25",,"3","Variation",RAM Size=32 GB|SSD Capacity=512 GB,IF_8EEE294C
+,,,,,,"328.25",,"3","Variation",RAM Size=32 GB|SSD Capacity=1 TB,IF_A944E05D
+Revise,"PC Desktops & All-In-Ones (179)","397027235707","DELL OptiPlex Desktop PC i5,Up to 32GB RAM, 1TB NVME SSD,Windows 11 PRO,Wifi+BT","US","USD",,,,,RAM Size=8 GB;16 GB;32 GB|SSD Capacity=256 GB;512 GB;1 TB,33852310
+,,,,,,"112.17",,"3","Variation",RAM Size=8 GB|SSD Capacity=256 GB,IF_7266ABF8
+,,,,,,"133.17",,"3","Variation",RAM Size=8 GB|SSD Capacity=512 GB,IF_8A664D06
+,,,,,,"140.17",,"3","Variation",RAM Size=8 GB|SSD Capacity=1 TB,IF_DE44C1AE
+,,,,,,"133.17",,"3","Variation",RAM Size=16 GB|SSD Capacity=256 GB,IF_74A7F31D
+,,,,,,"154.17",,"3","Variation",RAM Size=16 GB|SSD Capacity=512 GB,IF_6724031D
+,,,,,,"189.17",,"3","Variation",RAM Size=16 GB|SSD Capacity=1 TB,IF_3DD05856
+,,,,,,"189.17",,"3","Variation",RAM Size=32 GB|SSD Capacity=256 GB,IF_BAF77ACE
+,,,,,,"203.17",,"3","Variation",RAM Size=32 GB|SSD Capacity=512 GB,IF_F1AD5C4D
+,,,,,,"224.17",,"3","Variation",RAM Size=32 GB|SSD Capacity=1 TB,IF_F7C80D0E
+Revise,"PC Desktops & All-In-Ones (179)","397039713640",Dell OptiPlex SFF Desktop PC Intel i5 | Up to 32GB RAM | 1TB SSD | Win 10/11 Pro,"US","USD",,,,,RAM Size=8GB;16 GB;32 GB|Hard Drive Capacity=128 GB;256 GB;512 GB;1TB SSD|Operating System=Windows 10 Pro;Windows 11 Pro,33854926
+,,,,,,"165.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=128 GB|Operating System=Windows 10 Pro,IF_ADFDC6CD
+,,,,,,"195.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=128 GB|Operating System=Windows 11 Pro,IF_A2184E32
+,,,,,,"215.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_B8967987
+,,,,,,"220.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_5500C3A2
+,,,,,,"270.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_F7409629
+,,,,,,"275.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_44144438
+,,,,,,"340.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 10 Pro,IF_EB1DB2AB
+,,,,,,"345.25",,"0","Variation",RAM Size=8GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_8E419F63
+,,,,,,"245.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=128 GB|Operating System=Windows 10 Pro,IF_13BF6E40
+,,,,,,"250.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=128 GB|Operating System=Windows 11 Pro,IF_E2C6B2D9
+,,,,,,"270.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_CF7FCEEB
+,,,,,,"275.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_E9841BCE
+,,,,,,"325.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_95A9D234
+,,,,,,"330.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_CE4E1DF2
+,,,,,,"395.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 10 Pro,IF_5AF55520
+,,,,,,"400.25",,"0","Variation",RAM Size=16 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_20D73154
+,,,,,,"310.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=128 GB|Operating System=Windows 10 Pro,IF_C265D2C6
+,,,,,,"315.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=128 GB|Operating System=Windows 11 Pro,IF_06E9375B
+,,,,,,"335.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 10 Pro,IF_63F751B2
+,,,,,,"340.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=256 GB|Operating System=Windows 11 Pro,IF_95427D9E
+,,,,,,"390.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 10 Pro,IF_EF7FA223
+,,,,,,"395.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=512 GB|Operating System=Windows 11 Pro,IF_3945153F
+,,,,,,"460.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 10 Pro,IF_341CDFD5
+,,,,,,"465.25",,"0","Variation",RAM Size=32 GB|Hard Drive Capacity=1TB SSD|Operating System=Windows 11 Pro,IF_FE543941
+Revise,"PC Desktops & All-In-Ones (179)","396894005674",HP Desktop Minitower Intel Core i7 3.20GHz Upto 16GB Upto 1TB SSD Windows 10 Pro,"US","USD",,,,,RAM Size=8 GB;16 GB|SSD Capacity=128 GB;256 GB;512 GB;1 TB,33786266
+,,,,,,"115.0",,"3","Variation",RAM Size=8 GB|SSD Capacity=128 GB,P7U-ZZU-T5V
+,,,,,,"155.0",,"3","Variation",RAM Size=8 GB|SSD Capacity=256 GB,26P-IMD-Z77
+,,,,,,"195.0",,"3","Variation",RAM Size=8 GB|SSD Capacity=512 GB,B2G-FVO-QPP
+,,,,,,"230.0",,"3","Variation",RAM Size=8 GB|SSD Capacity=1 TB,7BY-EOV-4TR
+,,,,,,"170.0",,"3","Variation",RAM Size=16 GB|SSD Capacity=128 GB,BJV-3ZG-SZF
+,,,,,,"215.0",,"3","Variation",RAM Size=16 GB|SSD Capacity=256 GB,IWT-9UR-I3T
+,,,,,,"270.0",,"3","Variation",RAM Size=16 GB|SSD Capacity=512 GB,6S7-APZ-N7M
+,,,,,,"345.0",,"3","Variation",RAM Size=16 GB|SSD Capacity=1 TB,QY6-4VC-CTB
+Revise,"PC Desktops & All-In-Ones (179)","397068570938",HP Desktop SFF PC Intel Core i5| 32GB RAM 1TB SSD | Windows 11/10 Pro,"US","USD",,,,,Operating System=Windows 11 Pro;Windows 10 Pro|RAM Size=8 GB;16 GB;32 GB|Hard Drive Capacity=128 GB;256 GB;512 GB;1TB,33872113
+,,,,,,"198.99",,"1","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=128 GB,IF_1E70C6A8
+,,,,,,"229.0",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=256 GB,IF_E4EEC278
+,,,,,,"249.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=512 GB,IF_8F4B8EC5
+,,,,,,"285.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB,IF_C7A9DD46
+,,,,,,"219.99",,"5","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=128 GB,IF_6C0177DD
+,,,,,,"244.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=256 GB,IF_5EA4E20C
+,,,,,,"268.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=512 GB,IF_EEE7C6FB
+,,,,,,"299.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB,IF_8C2E6E38
+,,,,,,"242.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=128 GB,IF_AAB94C38
+,,,,,,"283.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=256 GB,IF_1909DB35
+,,,,,,"304.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=512 GB,IF_35C618BC
+,,,,,,"344.99",,"10","Variation",Operating System=Windows 11 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB,IF_8B98EB06
+,,,,,,"209.99",,"1","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=128 GB,IF_C75EE5E1
+,,,,,,"224.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=256 GB,IF_F4A6E63E
+,,,,,,"247.39",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=512 GB,IF_4EBB453F
+,,,,,,"283.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=8 GB|Hard Drive Capacity=1TB,IF_76781D9A
+,,,,,,"219.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=128 GB,IF_2A5B6383
+,,,,,,"242.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=256 GB,IF_EFDC1846
+,,,,,,"263.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=512 GB,IF_8F858A2E
+,,,,,,"297.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=16 GB|Hard Drive Capacity=1TB,IF_9EECA527
+,,,,,,"249.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=128 GB,IF_7BD721B1
+,,,,,,"279.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=256 GB,IF_8731B6D2
+,,,,,,"304.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=512 GB,IF_2057262F
+,,,,,,"339.99",,"10","Variation",Operating System=Windows 10 Pro|RAM Size=32 GB|Hard Drive Capacity=1TB,IF_C963FCDA
+Revise,"Internal Hard Disk Drives (56083)","397071854372","1TB SSD 2.5"" SATA Hard Drive for Laptop with Windows 11 Pro Installed Used","US","USD","75.25",,"5",,,2UE-8J9-DXD
